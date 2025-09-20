@@ -1,0 +1,15 @@
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\bin\Debug\net8.0\PR_2GIT.exe
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\bin\Debug\net8.0\PR_2GIT.deps.json
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\bin\Debug\net8.0\PR_2GIT.runtimeconfig.json
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\bin\Debug\net8.0\PR_2GIT.dll
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\bin\Debug\net8.0\PR_2GIT.pdb
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\obj\Debug\net8.0\PR_2GIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\obj\Debug\net8.0\PR_2GIT.AssemblyInfoInputs.cache
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\obj\Debug\net8.0\PR_2GIT.AssemblyInfo.cs
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\obj\Debug\net8.0\PR_2GIT.csproj.CoreCompileInputs.cache
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\obj\Debug\net8.0\PR_2GIT.sourcelink.json
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\obj\Debug\net8.0\PR_2GIT.dll
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\obj\Debug\net8.0\refint\PR_2GIT.dll
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\obj\Debug\net8.0\PR_2GIT.pdb
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\obj\Debug\net8.0\PR_2GIT.genruntimeconfig.cache
+C:\Users\231791\Documents\GitHub\my-awesome-project\PR_2GIT\PR_2GIT\obj\Debug\net8.0\ref\PR_2GIT.dll
