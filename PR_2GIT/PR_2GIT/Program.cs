@@ -11,8 +11,11 @@ class Program
         double cathetus2 = ReadPositiveDouble();
 
         double area = (cathetus1 * cathetus2) / 2;
+        double hypotenuse = Math.Sqrt(cathetus1 * cathetus1 + cathetus2 * cathetus2);
+        double perimeter = cathetus1 + cathetus2 + hypotenuse;
 
         Console.WriteLine($"Площадь прямоугольного треугольника: {area}");
+        Console.WriteLine($"Периметр прямоугольного треугольника: {perimeter}");
     }
 
     static double ReadPositiveDouble()
